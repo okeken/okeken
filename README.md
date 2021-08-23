@@ -4,7 +4,7 @@ and here are a few things I'm working on:
 
 - building Interacting frontend UI with Reactjs
 - Software Product Sprint
-- Technimcal articles on Dev.to
+- Technical articles on Dev.to
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
