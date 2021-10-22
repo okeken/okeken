@@ -15,10 +15,10 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 
 <!--START_SECTION:waka-->
 ```text
-JSX          9 hrs 36 mins   ██████████▓░░░░░░░░░░░░░░   42.91 % 
-JavaScript   5 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.33 % 
-Solidity     1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-TypeScript   1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML         1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+JSX          8 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.58 % 
+JavaScript   5 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 % 
+HTML         2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+PHP          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
