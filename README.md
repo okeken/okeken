@@ -5,9 +5,9 @@
 
 and here are a few things I'm working on:
 
-- building Interacting frontend UI with Reactjs
-- Software Product Sprint
-- Technical articles on Dev.to
+- Building Interactive frontend UI with Reactjs
+- Biulding Web3 Dapps for the decentralized world
+- Writing Smart Contracts On the EVM
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
