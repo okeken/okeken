@@ -18,10 +18,10 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   28 hrs 24 mins  ███████████▓░░░░░░░░░░░░░   46.48 % 
-JavaScript   19 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Solidity     4 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-GraphQL      3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-YAML         1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript   35 hrs 29 mins  █████████████▓░░░░░░░░░░░   55.09 % 
+TypeScript   17 hrs 21 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
+GraphQL      4 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Solidity     3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+YAML         1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 <!--END_SECTION:waka-->
