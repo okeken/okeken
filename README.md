@@ -19,12 +19,12 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 24 mins  █████████████▓░░░░░░░░░░░   54.88 %
-Solidity     7 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-JavaScript   3 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Solidity     9 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.01 %
+TypeScript   8 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.73 %
+JavaScript   3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
