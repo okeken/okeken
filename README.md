@@ -26,11 +26,6 @@ Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img
-  src="https://github.com/okeken/okeken/blob/main/images/stat.svg"
-  alt="Okeken WakaTime Activity"
-/>
-
 
 # My Latest Blog posts
 
