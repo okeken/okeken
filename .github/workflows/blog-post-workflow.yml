@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: okeken/blog-post-workflow@master
+      - uses: okeken/blog-post-workflow@main
         with:
           feed_list: "https://dev.to/feed/okeken,https://www.okeken.com/feed/"
