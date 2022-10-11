@@ -31,6 +31,18 @@ Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░
   alt="Okeken WakaTime Activity"
 />
 
+```html
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/okeken/okeken/blob/main/images/stat.svg"
+  alt="Oke WakaTime Activity"
+/>
+```
+
 # My Latest Blog posts
 
 <!-- blog-post-list:start -->
