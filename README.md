@@ -1,9 +1,10 @@
-# Hi there! I'm Oke Kehinde :cowboy_hat_face:
+# Hi there! I'm Kenny :cowboy_hat_face:
 
 and here are a few things I'm working on:
 
 - Building Interactive frontend UI with Reactjs
-- Biulding Web3 Dapps for the decentralized world
+- Creating backend systems for Web Applications
+- Building Web3 Dapps for the decentralized world
 - Writing Smart Contracts On the EVM
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
@@ -24,6 +25,11 @@ Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<img
+  src="https://github.com/okeken/okeken/blob/main/images/stat.svg"
+  alt="Okeken WakaTime Activity"
+/>
 
 # My Latest Blog posts
 
