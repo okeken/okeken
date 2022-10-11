@@ -27,5 +27,5 @@ Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░
 
 # My Latest Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
