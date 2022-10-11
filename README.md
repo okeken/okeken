@@ -8,7 +8,6 @@ and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okeken&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### This week I spend time on:
@@ -25,3 +24,8 @@ Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+# My Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
