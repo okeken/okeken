@@ -16,9 +16,8 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   55 hrs 49 mins  █████████████████████▓░░░   86.89 %
-Solidity     3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Other        2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+JavaScript   50 hrs 59 mins  ██████████████████████▒░░   88.94 %
+Other        3 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
