@@ -16,11 +16,11 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       20 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   46.08 %
-JavaScript   11 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
-TypeScript   8 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Python       1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Other        1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Vue.js       15 hrs 13 mins  █████████▒░░░░░░░░░░░░░░░   37.40 %
+TypeScript   11 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+JavaScript   9 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+Python       1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other        1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
