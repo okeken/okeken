@@ -16,8 +16,8 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      26 hrs 22 mins  █████████████████████▓░░░   87.06 %
-Other           1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TypeScript      22 hrs 57 mins  █████████████████████▓░░░   87.07 %
+Other           1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 ```
 
 <!--END_SECTION:waka-->
