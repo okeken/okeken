@@ -16,9 +16,11 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 57 mins   █████████████████▒░░░░░░░   68.93 %
-JavaScript   1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
-Other        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+TypeScript   9 hrs 32 mins   ████████████████████░░░░░   79.74 %
+JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
