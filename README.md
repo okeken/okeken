@@ -16,11 +16,11 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 hrs 50 mins  █████████████████████▒░░░   84.89 %
-Markdown     1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Astro        1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Other        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   26 hrs 48 mins  ███████████████████▒░░░░░   77.96 %
+Astro        2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown     2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+C#           1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
