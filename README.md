@@ -32,7 +32,7 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 The latest articles on DEV Community by okeken \(@okeken\).
 
 [Read more](https://dev.to/okeken)
-> Last updated: Tuesday, December 5, 2023 at 12:29:16 PM
+> Last updated: Tuesday, December 5, 2023 at 6:18:43 PM
 
 > Showing 4 of 4 posts.
 
