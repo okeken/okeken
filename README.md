@@ -16,10 +16,11 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```txt
-C#      5 hrs 27 mins   █████████████████████████   99.38 %
-JSON    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#           5 hrs 28 mins   ███████████████████████░░   92.46 %
+TypeScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
