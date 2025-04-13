@@ -16,11 +16,11 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.97 %
-Astro              3 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
-JSON               2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Markdown           1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Python             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JavaScript         3 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+Astro              3 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
+JSON               2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Markdown           1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Python             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
