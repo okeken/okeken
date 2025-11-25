@@ -16,8 +16,7 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ██████████████████████▓░░   90.85 %
-JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
