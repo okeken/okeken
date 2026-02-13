@@ -34,7 +34,7 @@ Bash         24 mins         ▒░░░░░░░░░░░░░░░░
 The latest articles on DEV Community by okeken \(@okeken\).
 
 [Read more](https://dev.to/okeken)
-> Last updated: Thursday, February 12, 2026 at 7:05:46 PM
+> Last updated: Friday, February 13, 2026 at 2:33:10 AM
 
 > Showing 5 of 6 posts.
 
